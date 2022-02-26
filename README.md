@@ -1,4 +1,4 @@
-# Basic Flask Web Application
+# Macro Counter Web Application
 
 ## How to set up environment
 * Inside `/rant-app`, create a virtual environment with the following command: `python3 -m venv venv-rant-app`.
